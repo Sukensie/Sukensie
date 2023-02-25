@@ -1,6 +1,6 @@
 # Hi there, I'm Tomas 👋 
 
-(https://drive.google.com/file/d/1lwdwezF2zRtOrBKzAaUWfjfpP58zh4xh/view?usp=sharing)
+![Alt text](./lyze.png?raw=true "Title")
 
 ## A Student, Developer, Traveller and Musician!!
 
