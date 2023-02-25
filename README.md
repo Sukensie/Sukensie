@@ -1,6 +1,6 @@
 # Hi there, I'm Tomas 👋 
 
-![Alt text](./lyze.png?raw=true "Title")
+![Banner](./banner.jpg?raw=true "Title")
 
 ## A Student, Developer, Traveller and Musician!!
 
