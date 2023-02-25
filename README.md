@@ -6,13 +6,16 @@
 I am a 22 years old Computer Science student finishing his Bachelor's Thesis on Information Systems and IoT at the Brno University of Technology. My preferred programming languages are PHP, Python, JS/TS, and Swift. I speak fluently Czech and English, German with flaws and currently learning Danish. I play the guitar and bass and enjoy sports, especially Badminton, Cycling, Skiing, and Running. I am also a very passionate traveler - recent trip: Norway. 
 
 ### Connect with me:
-[!(./facebook.svg)](https://www.facebook.com/Soucekt/#gh-light-mode-only)
-[!(./img/facebook-dark.svg)](https://www.facebook.com/Soucekt/#gh-dark-mode-only)
+[<img src="facebook.svg" width="25">](https://www.facebook.com/Soucekt)
 &nbsp;&nbsp;
-[!(./linkedin.svg)]([https://linkedin.com/in/codeSTACKr#gh-light-mode-only](https://www.linkedin.com/in/soucek-tomas))
+[<img src="linkedin.svg" width="25">](https://www.linkedin.com/in/soucek-tomas)
+<!--
+/*[(./img/facebook-dark.svg)](https://www.facebook.com/Soucekt)
+&nbsp;&nbsp;
 [!(./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
+&nbsp;&nbsp; -->
 
+<!--
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
@@ -25,7 +28,7 @@ I am a 22 years old Computer Science student finishing his Bachelor's Thesis on 
 
 <br />
 <br />
-<!--
+
 ---
 
 <details>
