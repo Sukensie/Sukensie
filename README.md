@@ -1,6 +1,6 @@
 # Hi there, I'm Tomas 👋 
 
-![Banner](./banner.jpg?raw=true "Title")
+![Banner](./banner.png?raw=true "Title")
 
 ## A Student, Developer, Traveller and Musician!!
 
